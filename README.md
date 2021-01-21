@@ -9,4 +9,4 @@
 
 ### Zoom Alternatives
 - [Blue Jeans #1](https://www.bluejeans.com/)
-- Zoho Meetings #2
+- [Zoho Meetings #2](https://www.zoho.com/meeting/)
