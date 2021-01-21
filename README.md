@@ -8,5 +8,5 @@
 - [Teaching online with Zoom and OBS by Scott C. Parker](https://www.youtube.com/watch?v=rkGu41M6S9k)
 
 ### Zoom Alternatives
-- [Blue Jeans #1](bluejeans.com)
+- [Blue Jeans #1](https://www.bluejeans.com/)
 - Zoho Meetings #2
