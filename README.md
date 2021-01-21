@@ -1,6 +1,7 @@
 # Bookmarks
 
-## Link to Amanda Gorman's inauguration speech (January 20, 2021):
+## Inspiration for Teaching
+### Link to Amanda Gorman's inauguration speech (January 20, 2021):
 [Teach Living Poets](https://teachlivingpoets.com/2021/01/20/amanda-gorman-inauguration-poem-lessons/)
 
 ## Video Editing / Presentations
