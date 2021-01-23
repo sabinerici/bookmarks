@@ -14,4 +14,4 @@
 - [Zoho Meetings #2](https://www.zoho.com/meeting/)
 
 ### LMS
--[LMS Options](https://elearningindustry.com/directory/software-categories/learning-management-systems?sort=rating)
+- [LMS Options](https://elearningindustry.com/directory/software-categories/learning-management-systems?sort=rating)
