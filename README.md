@@ -18,3 +18,6 @@
 
 ## Mac OS hacks
 - [Saving iMovie Files to an External Harddrive](https://support.apple.com/en-us/HT203049)
+
+## Launch Day
+[Formula, strategy and secrets to a 6-figure launch](https://www.thinkific.com/amplify/agenda?agendaPath=session/459143)
