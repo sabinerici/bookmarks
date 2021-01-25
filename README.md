@@ -16,5 +16,5 @@
 ### LMS
 - [LMS Options](https://elearningindustry.com/directory/software-categories/learning-management-systems?sort=rating)
 
-### Mac OS hacks
+## Mac OS hacks
 - [Saving iMovie Files to an External Harddrive](https://support.apple.com/en-us/HT203049)
