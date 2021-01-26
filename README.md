@@ -28,3 +28,6 @@
 - [Ubersuggest](https://neilpatel.com/ubersuggest/)
 - [7-week action plan](https://neilpatel.com/quiz/results-7-week-action-plan/)
 - [Similar Web](https://www.similarweb.com/)
+
+## Promotion
+- [Celebraties giving people shoutouts](www.cameo.com)
