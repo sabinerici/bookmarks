@@ -23,3 +23,6 @@
 [Formula, strategy and secrets to a 6-figure launch](https://www.thinkific.com/amplify/agenda?agendaPath=session/459143)
 [How to price your course](https://www.thinkific.com/amplify/agenda?agendaPath=session/459149)
 - Clubhouse
+
+## SEO
+- [Ubersuggest](https://neilpatel.com/ubersuggest/)
