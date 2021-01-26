@@ -30,4 +30,4 @@
 - [Similar Web](https://www.similarweb.com/)
 
 ## Promotion
-- [Celebraties giving people shoutouts](www.cameo.com)
+- [Celebraties giving people shoutouts](https://www.cameo.com)
