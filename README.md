@@ -1,5 +1,11 @@
 # Bookmarks
 
+## SpaCy
+### Link to v.2 POS tagging and Syntactic Dependency Parsing (disappeared with the upgrade to v.3)
+- [POS tagging](https://v2.spacy.io/api/annotation#pos-tagging)
+- [spacy.io homepage v.2](https://v2.spacy.io)
+
+
 ## Inspiration for Teaching
 ### Link to Amanda Gorman's inauguration speech (January 20, 2021):
 [Teach Living Poets](https://teachlivingpoets.com/2021/01/20/amanda-gorman-inauguration-poem-lessons/)
