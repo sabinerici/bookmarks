@@ -9,6 +9,10 @@
 ### Dr. Shelley Staples' GitHub CIABATTA project (how to build a corpus)
 [CIABATTA](https://github.com/writecrow/ciabatta/wiki)
 
+# Landom Holmes (soon to be a PhD student)
+### profiling lexical complexity
+[Landon Holmes] (https://nlp.langdonholmes.info/)
+
 ## Inspiration for Teaching
 ### Link to Amanda Gorman's inauguration speech (January 20, 2021):
 [Teach Living Poets](https://teachlivingpoets.com/2021/01/20/amanda-gorman-inauguration-poem-lessons/)
