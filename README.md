@@ -5,6 +5,9 @@
 - [POS tagging](https://v2.spacy.io/api/annotation#pos-tagging)
 - [spacy.io homepage v.2](https://v2.spacy.io)
 
+# Corpus Linguistics
+### Dr. Shelley Staples' GitHub CIABATTA project (how to build a corpus)
+[CIABATTA](https://github.com/writecrow/ciabatta/wiki)
 
 ## Inspiration for Teaching
 ### Link to Amanda Gorman's inauguration speech (January 20, 2021):
