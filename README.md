@@ -9,6 +9,9 @@
 ### Dr. Shelley Staples' GitHub CIABATTA project (how to build a corpus)
 [CIABATTA](https://github.com/writecrow/ciabatta/wiki)
 
+### Masaki Eguchi's Weebly
+[Masaki's Weebly](https://masakieguchi.weebly.com/resources.html)
+
 ### Masaki's Multi-Word Units Profiler (version 1.6.0)
 [Multi-Word Units Profiler](https://multiwordunitsprofiler.pythonanywhere.com)
 
