@@ -9,6 +9,13 @@
 ### Dr. Shelley Staples' GitHub CIABATTA project (how to build a corpus)
 [CIABATTA](https://github.com/writecrow/ciabatta/wiki)
 
+### Masaki's Multi-Word Units Profiler (version 1.6.0)
+[Multi-Word Units Profiler](https://multiwordunitsprofiler.pythonanywhere.com)
+
+### Statistical tests, their assumptions and R-code created by Atsushi MIZUMOTO, Ph.D. 
+[Statistical Tests](http://langtest.jp/#app)
+
+
 # Landom Holmes (soon to be a PhD student)
 ### profiling lexical complexity
 [Landon Holmes] (https://nlp.langdonholmes.info/)
