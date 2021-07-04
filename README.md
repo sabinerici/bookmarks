@@ -18,6 +18,8 @@
 ### Statistical tests, their assumptions and R-code created by Atsushi MIZUMOTO, Ph.D. 
 [Statistical Tests](http://langtest.jp/#app)
 
+### Keyness Analysis (log-likelihood and effect size calculator)
+[Keyword Methods](http://ucrel.lancs.ac.uk/llwizard.html)
 
 # Landom Holmes (soon to be a PhD student)
 ### profiling lexical complexity
