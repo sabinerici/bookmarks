@@ -63,3 +63,6 @@
 ## Tidy Meta-Analytic Data Presentation (October 29, 2021)
 - [Tidy Meta-Analytic Data](https://brandonlebeau.org/slides/canam2021)
 ### Really great presentation on how to organize data in columns and rows by Brandon LeBeau & Ariel M. Aloe 
+## PDF Search R package
+- [PDF Search R-package](https://brandonlebeau.org/2018/08/22/pdfsearch-0-3-0/)
+### This R package can split text in PDF files into sentences, not just lines. Author: Brandon LeBeau
