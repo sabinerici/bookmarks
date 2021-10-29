@@ -59,3 +59,6 @@
 
 ## Storyline (Kim's study)
 - [Storyline](http://storyline.knightlab.com)
+
+## Tidy Meta-Analytic Data Presentation (October 29, 2021)
+- [Tidy Meta-Analytic Data](https://brandonlebeau.org/slides/canam2021)
