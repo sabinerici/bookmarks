@@ -73,4 +73,4 @@
 ## Build a Scientific/Academic Website for free with WowChemy
 - [Build a Website](https://wowchemy.com/?utm_campaign=poweredby)
 ### Brandon LeBeau uses this website and it looks great! See here: 
-- [Brandon LeBeau's Website:](https://psqf6250.brandonlebeau.org/)
+- [Brandon LeBeau's Website](https://psqf6250.brandonlebeau.org/)
