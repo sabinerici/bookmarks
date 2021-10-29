@@ -62,3 +62,4 @@
 
 ## Tidy Meta-Analytic Data Presentation (October 29, 2021)
 - [Tidy Meta-Analytic Data](https://brandonlebeau.org/slides/canam2021)
+### Really great presentation on how to organize data in columns and rows by Brandon LeBeau & Ariel M. Aloe 
