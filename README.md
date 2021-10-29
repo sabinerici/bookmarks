@@ -66,3 +66,6 @@
 ## PDF Search R package
 - [PDF Search R-package](https://brandonlebeau.org/2018/08/22/pdfsearch-0-3-0/)
 ### This R package can split text in PDF files into sentences, not just lines. Author: Brandon LeBeau
+
+## Grad Stats Course taught by Brandon LeBeau with Code on GitHub
+[Grad Stats Course](https://github.com/lebebr01/psqf_6243/tree/main/course-notes)
