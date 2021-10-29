@@ -69,3 +69,8 @@
 
 ## Grad Stats Course taught by Brandon LeBeau with Code on GitHub
 [Grad Stats Course](https://github.com/lebebr01/psqf_6243/tree/main/course-notes)
+
+## Build a Scientific/Academic Website for free with WowChemy
+-[Build a Website](https://wowchemy.com/?utm_campaign=poweredby)
+### Brandon LeBeau uses this website and it looks great! See here: 
+-[Brandon LeBeau's Website:](https://psqf6250.brandonlebeau.org/)
