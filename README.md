@@ -23,7 +23,7 @@
 
 # Landom Holmes (soon to be a PhD student)
 ### profiling lexical complexity
-[Landon Holmes] (https://nlp.langdonholmes.info/)
+[Landon Holmes](https://nlp.langdonholmes.info/)
 
 ## Inspiration for Teaching
 ### Link to Amanda Gorman's inauguration speech (January 20, 2021):
