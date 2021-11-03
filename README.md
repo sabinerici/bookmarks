@@ -27,6 +27,7 @@
 
 # PDF Processing with Python
 [PDF Processing with Python](https://towardsdatascience.com/pdf-preprocessing-with-python-19829752af9f)
+[PDF Miner](https://github.com/pdfminer/pdfminer.six)
 
 ## Inspiration for Teaching
 ### Link to Amanda Gorman's inauguration speech (January 20, 2021):
