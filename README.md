@@ -74,3 +74,7 @@
 - [Build a Website](https://wowchemy.com/?utm_campaign=poweredby)
 ### Brandon LeBeau uses this website and it looks great! See here: 
 - [Brandon LeBeau's Website](https://psqf6250.brandonlebeau.org/)
+
+## Structuring Your Project
+### File Structure etc
+- [Structuring Your Project](https://docs.python-guide.org/writing/structure/)
