@@ -25,6 +25,9 @@
 ### profiling lexical complexity
 [Landon Holmes](https://nlp.langdonholmes.info/)
 
+# PDF Processing with Python
+[PDF Processing with Python](https://towardsdatascience.com/pdf-preprocessing-with-python-19829752af9f)
+
 ## Inspiration for Teaching
 ### Link to Amanda Gorman's inauguration speech (January 20, 2021):
 [Teach Living Poets](https://teachlivingpoets.com/2021/01/20/amanda-gorman-inauguration-poem-lessons/)
