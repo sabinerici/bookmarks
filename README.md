@@ -87,3 +87,7 @@
 ## Wordless
 ### Really great tool and the terms / stats / indices are all explained well on GitHub
 - [Wordless](https://github.com/BLKSerene/Wordless)
+
+## Make Work Easier
+### Incredible resource with lots of tools recommended, such as ColloCaid
+- [Make Work Easier](https://github.com/Magic-wei/make_work_easier)
