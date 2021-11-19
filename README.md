@@ -83,3 +83,7 @@
 ## Structuring Your Project
 ### File Structure etc
 - [Structuring Your Project](https://docs.python-guide.org/writing/structure/)
+
+## Wordless
+### Really great tool and the terms / stats / indices are all explained well on GitHub
+- [Wordless](https://github.com/BLKSerene/Wordless)
