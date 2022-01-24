@@ -92,6 +92,6 @@
 ### Incredible resource with lots of tools recommended, such as ColloCaid
 - [Make Work Easier](https://github.com/Magic-wei/make_work_easier)
 
-## Phrasebank
+## Writing Group Websites
 ### Phrases that might be useful for a thesis
 - [Phrasebank](https://www.phrasebank.manchester.ac.uk/)
