@@ -30,6 +30,9 @@
 
 [PDF Miner](https://github.com/pdfminer/pdfminer.six)
 
+# Crash Course on Word Embeddings
+[Embeddings](https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture)
+
 ## Inspiration for Teaching
 ### Link to Amanda Gorman's inauguration speech (January 20, 2021):
 [Teach Living Poets](https://teachlivingpoets.com/2021/01/20/amanda-gorman-inauguration-poem-lessons/)
